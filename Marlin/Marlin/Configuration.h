@@ -22,7 +22,8 @@
 #pragma once
 
 //#define CONFIG_EXAMPLES_DIR "Geeetech/A20M"
-//#define CONVERT_TO_CYCLOPS //Disable mixing (8 virtual extruders) & use single nozzle control system (2 physical extruders)
+// *** enabled CONVERT_TO_CYCLOPS */
+#define CONVERT_TO_CYCLOPS //Disable mixing (8 virtual extruders) & use single nozzle control system (2 physical extruders)
 
 /**
  * Configuration.h
@@ -663,7 +664,7 @@
 #define PIDTEMP          // See the PID Tuning Guide at https://reprap.org/wiki/PID_Tuning
 //#define MPCTEMP        // ** EXPERIMENTAL **
 
-#define BANG_MAX 255     // Limits current to nozzle while in bang-bang mode; 255=full current
+#define BANG_MAX 190 //255     // Limits current to nozzle while in bang-bang mode; 255=full current
 #define PID_MAX BANG_MAX // Limits current to nozzle while PID is active (see PID_FUNCTIONAL_RANGE below); 255=full current
 #define PID_K1 0.95      // Smoothing factor within any PID loop
 
@@ -680,9 +681,9 @@
     #define DEFAULT_Ki_LIST {   1.08,   1.08 }
     #define DEFAULT_Kd_LIST { 114.00, 114.00 }
   #else
-    #define DEFAULT_Kp  45.80
-    #define DEFAULT_Ki   3.61
-    #define DEFAULT_Kd 145.39
+    #define DEFAULT_Kp 9.58
+    #define DEFAULT_Ki 0.50
+    #define DEFAULT_Kd 45.51
   #endif
 #endif
 
@@ -1224,7 +1225,7 @@
  * Override with M92
  *                                      X, Y, Z [, I [, J [, K...]]], E0 [, E1[, E2...]]
  */
-#define DEFAULT_AXIS_STEPS_PER_UNIT   { 80, 80, 400, 430 }
+#define DEFAULT_AXIS_STEPS_PER_UNIT   { 80.3, 80.80, 400, 394.9 }
 
 /**
  * Default Max Feed Rate (linear=mm/s, rotational=°/s)
@@ -1637,7 +1638,7 @@
 
 // Enable the M48 repeatability test to test probe accuracy
 #if ANY(BLTOUCH, FIX_MOUNTED_PROBE)
-  //#define Z_MIN_PROBE_REPEATABILITY_TEST //diagnostic tool to check probe functions
+  #define Z_MIN_PROBE_REPEATABILITY_TEST //diagnostic tool to check probe functions
 #endif
 
 // Before deploy/stow pause for user confirmation
@@ -1758,8 +1759,8 @@
 // @section geometry
 
 // The size of the printable area
-#define X_BED_SIZE 255
-#define Y_BED_SIZE 255
+#define X_BED_SIZE 245
+#define Y_BED_SIZE 245
 
 // Travel limits (mm) after homing, corresponding to endstop positions.
 #define X_MIN_POS -1
@@ -2226,7 +2227,7 @@
  *   M502 - Revert settings to "factory" defaults. (Follow with M500 to init the EEPROM.)
  */
 #define EEPROM_SETTINGS       // Persistent storage with M500 and M501
-#define DISABLE_M503        // Saves ~2700 bytes of PROGMEM. Disable for release!
+//#define DISABLE_M503        // Saves ~2700 bytes of PROGMEM. Disable for release!
 #define EEPROM_CHITCHAT       // Give feedback on EEPROM commands. Disable to save PROGMEM.
 #define EEPROM_BOOT_SILENT    // Keep M503 quiet and only give errors during first load
 #if ENABLED(EEPROM_SETTINGS)
