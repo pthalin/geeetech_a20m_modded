@@ -1,17 +1,16 @@
 # Geeetech A20M Modded
 
-Please use the sponsored links below to supportme!
+Please use the sponsored links below to support me!
 
 Parts:\
 [XCR3D 2 IN 1 OUT Hotend with Heater and Sensor](https://s.click.aliexpress.com/e/_c3dWIA2b)\
 [BMG Extruders Full Metal (2x Right)](https://s.click.aliexpress.com/e/_c3lZYPxh)\
 [3D Touch](https://s.click.aliexpress.com/e/_c2QazP8F) + [Short cable with dupont connector](https://s.click.aliexpress.com/e/_c3vGqBtl)\
-[PEI Build Plate with magnetic base](https://s.click.aliexpress.com/e/_c3RffY35)\
-
+[PEI Build Plate with magnetic base](https://s.click.aliexpress.com/e/_c3RffY35)
 
 To mount the new Hotend a [mounting plate](Hotend/hotend_mount.stl) needs to be printed.
 
-To support these modifications a custom config of [Marlin 2.0 firmware](Marlin/) is needed.\
+For the modifications a custom config of [Marlin 2.0 firmware](Marlin/) is needed.\
 Build it with [Visual Studio Code](https://code.visualstudio.com/download) using the [Auto Build Marlin](https://marlinfw.org/docs/basics/auto_build_marlin.html) extension to build and flash the firmware.\
 
 IMPORTANT steps BEFORE trying to do any prints:
