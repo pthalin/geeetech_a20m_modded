@@ -7,7 +7,7 @@ I had a ton of problems with my Geeetech A20M when printing PETG. Bad quality pr
 Parts:\
 [XCR3D 2 IN 1 OUT Hotend with Heater and Sensor](https://s.click.aliexpress.com/e/_c3dWIA2b)\
 [BMG Extruders Full Metal (2x Right)](https://s.click.aliexpress.com/e/_c3lZYPxh)\
-[3D Touch](https://s.click.aliexpress.com/e/_c2QazP8F) + [Short cable with dupont connector](https://s.click.aliexpress.com/e/_c3YiJ9rv)\
+[Trianglelab 3D Touch](https://s.click.aliexpress.com/e/_c2QazP8F) + [Short cable with dupont connector](https://s.click.aliexpress.com/e/_c3YiJ9rv)\
 [PEI Build Plate with magnetic base](https://s.click.aliexpress.com/e/_c3RffY35)
 
 <img height="300" src="Images/geeetech_a20m.jpg"> <img height="300" src="Images/hotend.jpg">
