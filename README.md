@@ -5,7 +5,7 @@ Please use the sponsored links below to support me!
 Parts:\
 [XCR3D 2 IN 1 OUT Hotend with Heater and Sensor](https://s.click.aliexpress.com/e/_c3dWIA2b)\
 [BMG Extruders Full Metal (2x Right)](https://s.click.aliexpress.com/e/_c3lZYPxh)\
-[3D Touch](https://s.click.aliexpress.com/e/_c2QazP8F) + [Short cable with dupont connector](https://s.click.aliexpress.com/e/_c3vGqBtl)\
+[3D Touch](https://s.click.aliexpress.com/e/_c2QazP8F) + [Short cable with dupont connector](https://s.click.aliexpress.com/e/_c3YiJ9rv)\
 [PEI Build Plate with magnetic base](https://s.click.aliexpress.com/e/_c3RffY35)
 
 To mount the new Hotend a [mounting plate](Hotend/hotend_mount.stl) needs to be printed.
