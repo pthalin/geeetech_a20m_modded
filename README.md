@@ -1,6 +1,6 @@
 # Geeetech A20M Modded
 
-Please use the sponsored links below to support me!
+I had a ton of problems with my Geeetech A20M when printing PETG. Bad quality prints, Fillamnt stick on the nozzle, Hotend clogs, Print not sticking to build plate, and so on. Therefore I decide to rebuild it to better fit my needs. Feel free to use the sponsored links below to support me!
 
 Parts:\
 [XCR3D 2 IN 1 OUT Hotend with Heater and Sensor](https://s.click.aliexpress.com/e/_c3dWIA2b)\
@@ -13,7 +13,7 @@ Parts:\
 To mount the new Hotend a [mounting plate](Hotend/hotend_mount.stl) needs to be printed.
 
 For the modifications a custom config of [Marlin 2.0 firmware](Marlin/) is needed.\
-Build it with [Visual Studio Code](https://code.visualstudio.com/download) using the [Auto Build Marlin](https://marlinfw.org/docs/basics/auto_build_marlin.html) extension to build and flash the firmware.\
+Build it with [Visual Studio Code](https://code.visualstudio.com/download) using the [Auto Build Marlin](https://marlinfw.org/docs/basics/auto_build_marlin.html) extension to build and flash the firmware.
 
 IMPORTANT steps BEFORE trying to do any prints:
 1. Z-offset needs to be set correctly.
@@ -23,12 +23,11 @@ IMPORTANT steps BEFORE trying to do any prints:
 
 I use OrcaSlicer with the these settings: [Exported Settings](OrcaSlicer/)
 
-I also run a Raspberry Pi with Octopi with a realy for the PSU.\
+I also run a Raspberry Pi with Octopi. This is convenient as you can upload print directly from OrcaSlice withou fiddeling with a SD Cards. I have added a realy on the cords to the printer so I can start it remotely. \
 Install Octopi with Raspberry Pi Imager and load [config backup](Octopi/) (User/Password: octopi/octopi).
 
 I strongly recommand using a fillamnt dryer! I use:\
 [Sunlu S2 Filament Dryer](https://s.click.aliexpress.com/e/_c3yCW3Xv)
-
 
 XCR3D 2 In 1 out hotend\
 [<img height="300" src="Images/xcr3d_2in1out_hotend.jpg">](https://s.click.aliexpress.com/e/_c3dWIA2b)
