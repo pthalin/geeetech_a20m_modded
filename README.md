@@ -8,6 +8,8 @@ Parts:\
 [3D Touch](https://s.click.aliexpress.com/e/_c2QazP8F) + [Short cable with dupont connector](https://s.click.aliexpress.com/e/_c3YiJ9rv)\
 [PEI Build Plate with magnetic base](https://s.click.aliexpress.com/e/_c3RffY35)
 
+<img height="300" src="Images/geeetech_a20m.jpg"> <img height="300" src="Images/hotend.jpg">
+
 To mount the new Hotend a [mounting plate](Hotend/hotend_mount.stl) needs to be printed.
 
 For the modifications a custom config of [Marlin 2.0 firmware](Marlin/) is needed.\
