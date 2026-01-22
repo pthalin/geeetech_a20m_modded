@@ -1,10 +1,12 @@
 # Geeetech A20M Modded
 
-I had a ton of problems with my Geeetech A20M when printing PETG. Bad quality prints, Fillamnt stick on the nozzle, Hotend clogs, Print not sticking to build plate, and so on. Therefore I decide to rebuild it to better fit my needs. After these changes it feels like a whole new printer! This is not a complet guide but if you are a tinker it should be enough. I you like this feel free to use the sponsored links below to support me!
+I had a ton of problems with my Geeetech A20M when printing PETG. Bad quality prints, Fillamnt stick on the nozzle, Hotend clogs, Print not sticking to build plate, and so on. Therefore I decide to rebuild it to better fit my needs. After these changes it feels like a whole new printer! This is not a complet guide but if you are a tinker it should be enough. I you like this feel free to use the sponsored links below to support me! 
+
+Donation using [Ko-Fi](https://ko-fi.com/patriksretrotech) or [PayPal](https://www.paypal.com/donate/?business=UCTJFD6L7UYFL&no_recurring=0&item_name=Please+support+me%21&currency_code=SEK) are highly appreciated!
 
 <img height="150" src="Images/test_print.jpg"> 
 
-Parts:\
+Parts (AliExpress):\
 [XCR3D 2 IN 1 OUT Hotend with Heater and Sensor](https://s.click.aliexpress.com/e/_c3dWIA2b)\
 [BMG Extruders Full Metal (2x Right)](https://s.click.aliexpress.com/e/_c3lZYPxh)\
 [Trianglelab 3D Touch](https://s.click.aliexpress.com/e/_c2QazP8F) + [Short cable with dupont connector](https://s.click.aliexpress.com/e/_c3YiJ9rv)\
