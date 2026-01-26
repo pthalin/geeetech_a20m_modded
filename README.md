@@ -1,6 +1,6 @@
 # Geeetech A20M Modded
 
-I had a ton of problems with my Geeetech A20M when printing PETG. Bad quality prints, Fillamnt stick on the nozzle, Hotend clogs, Print not sticking to build plate, and so on. Therefore I decide to rebuild it to better fit my needs. After these changes it feels like a whole new printer! This is not a complet guide but if you are a tinker it should be enough to get yougoing. If you like this feel free to use the sponsored links below to support me! 
+I had a ton of problems with my Geeetech A20M when printing PETG. Bad quality prints, Fillamnt stick on the nozzle, Hotend clogs, Print not sticking to build plate, and so on. Therefore I decide to rebuild it to better fit my needs. After these changes it feels like a whole new printer! This is not a complet guide but if you are a tinker it should be enough to get you going. If you like this feel free to use the sponsored links below to support me! 
 
 Donation using [Ko-Fi](https://ko-fi.com/patriksretrotech) or [PayPal](https://www.paypal.com/donate/?business=UCTJFD6L7UYFL&no_recurring=0&item_name=Please+support+me%21&currency_code=SEK) are highly appreciated!
 
